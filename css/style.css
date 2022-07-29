@@ -1,0 +1,6 @@
+.link {
+   font-size: 70px;
+   color: red;
+   transition: all 0.3s ease 0s;
+   text-shadow: 0 2px 2px #000;
+}
